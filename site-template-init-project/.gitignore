@@ -1,0 +1,5 @@
+temp/
+*.bat
+
+# IntellijIdea files
+.idea/
